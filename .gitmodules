@@ -1,6 +1,18 @@
 [submodule "googletest"]
-	path = googletest
+	path = thirdparty/googletest
 	url = https://github.com/google/googletest.git
 [submodule "radiotap"]
-	path = radiotap
+	path = thirdparty/radiotap
 	url = https://github.com/radiotap/radiotap-library.git
+[submodule "thirdparty/libpcap"]
+	path = thirdparty/libpcap
+	url = https://github.com/the-tcpdump-group/libpcap
+[submodule "thirdparty/libev"]
+	path = thirdparty/libev
+	url = https://github.com/enki/libev.git
+[submodule "thirdparty/libnl"]
+	path = thirdparty/libnl
+	url = https://github.com/thom311/libnl.git
+[submodule "thirdparty/dpdk"]
+	path = thirdparty/dpdk
+	url = https://github.com/DPDK/dpdk.git
